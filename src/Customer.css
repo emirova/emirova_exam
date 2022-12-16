@@ -1,0 +1,15 @@
+.addform {
+    display: inline-block;
+}
+
+.editform {
+    display: inline-block;
+    padding: 5px;
+    margin: 10px;
+}
+
+.delform {
+    display: inline-block;
+    padding: 5px;
+    margin: 10px;
+}
